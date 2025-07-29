@@ -75,10 +75,10 @@ coppa-violation-detection/
 ## 🚀 How to Run
 
 1. Clone the repository:
-
+```bash
    git clone https://github.com/FaarisKhairrudin/coppa-violation-detection.git
    cd coppa-violation-detection
-
+```
 2. Open the Jupyter notebooks:
    - EDA_final.ipynb
    - modeling_coppaRISK.ipynb
